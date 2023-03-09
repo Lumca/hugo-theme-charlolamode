@@ -44,10 +44,10 @@ params:
         enabled: true
         title: Lumír Verner
         description: |
-
-          Hello, I am Lumír.
-           I am a software developer and tester. 
-              I am interested in software testing, test automation, and software development.
+           
+           Hello, I am a software developer and tester.
+          
+            I am interested in software testing, test automation and software development.
         imageUrl: "/images/profile.jpg"
         imageTitle: my image
         imageWidth: 210
