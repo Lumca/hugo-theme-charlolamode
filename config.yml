@@ -50,8 +50,8 @@ params:
               I am interested in software testing, test automation, and software development.
         imageUrl: "/images/profile.jpg"
         imageTitle: my image
-        imageWidth: 210
-        imageHeight: 210
+        imageWidth: 200
+        imageHeight: 200
     mainSections:
       - articles
 
