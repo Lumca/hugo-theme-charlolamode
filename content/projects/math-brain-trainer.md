@@ -1,11 +1,11 @@
 ---
-title: Math Braintrainer
-dateMonthYear: April 2022
-description:  It's a game to train your mental calculation skills. During a fixed time period, randomized math questions pop up. How many of them can you answer correctly?
+title: Beer Managing App
+dateMonthYear: January 2023
+description:  App for managing beer kegs with reporting
 type: page
 topic: project
-link: "https://www.mathbraintrainer.com"
-image: "/images/braintrainer.png"
+link: "https://play.google.com/store/apps/details?id=beer.app&hl=en&gl=US"
+image: "/images/beerApp.png"
 ---
 
 

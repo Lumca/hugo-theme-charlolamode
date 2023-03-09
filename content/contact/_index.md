@@ -5,7 +5,7 @@ type: list
 
 
 #### LinkedIn
-If you have a short message or question, drop a message via [LinkedIn](https://www.linkedin.com/in/heycharlola/).
+You can contact me via message on [LinkedIn](https://www.linkedin.com/in/lumir-verner/).
 
 
 <!-- #### Email
